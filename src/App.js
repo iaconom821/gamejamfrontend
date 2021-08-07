@@ -1,6 +1,6 @@
 import './App.css';
-import Dpad from "./Dpad.js";
-import GameArea from "./GameArea"
+import GameArea from "./components/GameArea";
+import Dpad from "./components/Dpad";
 
 function App() {
   return (
